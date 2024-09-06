@@ -45,6 +45,7 @@ const OpponentsMobileView = () => {
     setNewSelectedOpponentIndex()
   }, [
     game.turn,
+    game.roundStatus,
     game,
     player.socketId,
     selectedOpponentIndex,
