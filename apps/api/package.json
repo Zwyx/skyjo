@@ -18,7 +18,7 @@
     "dayjs": "^1.11.13",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.32.2",
-    "hono": "^3.12.12",
+    "hono": "^4.12.34",
     "node-cron": "^3.0.3",
     "nodemailer": "^6.9.15",
     "shared": "workspace:*",
