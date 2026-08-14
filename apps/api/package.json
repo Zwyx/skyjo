@@ -12,7 +12,7 @@
     "test:ui": "vitest --ui --coverage.enabled=true"
   },
   "dependencies": {
-    "@hono/node-server": "^1.12.2",
+    "@hono/node-server": "^1.19.15",
     "@hono/zod-validator": "^0.2.2",
     "database": "workspace:*",
     "dayjs": "^1.11.13",
