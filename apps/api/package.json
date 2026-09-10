@@ -20,7 +20,7 @@
     "drizzle-orm": "^0.32.2",
     "hono": "^3.12.12",
     "node-cron": "^3.0.3",
-    "nodemailer": "^6.9.15",
+    "nodemailer": "^9.1.1",
     "shared": "workspace:*",
     "socket.io": "^4.7.5",
     "socket.io-msgpack-parser": "^3.0.2",
