@@ -25,7 +25,7 @@
     "socket.io": "^4.7.5",
     "socket.io-msgpack-parser": "^3.0.2",
     "winston": "^3.14.2",
-    "zod": "^3.23.8"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^20.16.5",
